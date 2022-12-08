@@ -1,0 +1,71 @@
+body {
+    box-sizing: border-box;
+    background-color: #292b2c;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+}
+
+/* start insertion sort article styling */
+
+.insertionSort {
+    width: 100%;
+    background-color: #CCC;
+    max-width: 250px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.insertionSort h2 {
+    margin: 0 auto 10px;
+}
+
+.insertionSort * {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.insertionSort input[type="text"] {
+    width: 200px;
+    border: none;
+    padding: 5px;
+    height: 28px;
+}
+
+.insertionSort input[type="text"]:focus {
+    outline: none;
+}
+
+.insertionSort input[type="text"]::placeholder {
+    color: #AAA;
+}
+
+.insertionSort button {
+    width: 210px;
+    border: none;
+    background-color: #0275d8;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.insertionSort textarea {
+    background-color: #FFF;
+    width: 200px;
+    min-height: 40px;
+    padding: 5px;
+    color: #AAA;
+    resize: none;
+    overflow: scroll;
+}
+
+/* end insertion sort article styling */
