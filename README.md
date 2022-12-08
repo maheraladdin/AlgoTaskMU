@@ -1,4 +1,4 @@
-# AlgoTaskMU
-insertion sort and prim's algorithm
+# MU FCIS Algorithms Section 7
 
-you can see a live demo from [here](https://codepen.io/maheraladdin/pen/OJEBqyb)
+A Pen created on CodePen.io. Original URL: [https://codepen.io/maheraladdin/pen/OJEBqyb](https://codepen.io/maheraladdin/pen/OJEBqyb).
+
